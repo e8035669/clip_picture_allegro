@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1484615959 source:d:\codeblocks_hw\clip_picture_allegro\main.c
+	<stdio.h>
+	<stdlib.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_native_dialog.h"
+	"allegro5/allegro_image.h"
+
